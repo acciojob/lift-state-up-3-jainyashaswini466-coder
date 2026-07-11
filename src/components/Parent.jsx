@@ -12,7 +12,7 @@ const Parent = () => {
     <Child1 setSelectedOption= {setSelectedOption}/>
     <Child2  setSelectedOption = {setSelectedOption}/>
 
-    <p>selected Option: {selectedOption}</p>
+    <p>Selected Option: {selectedOption}</p>
     </div>
   )
 }
