@@ -9,6 +9,7 @@ const Parent = () => {
 
   return (
     <div className="parent">
+        <h1>Parent Component</h1>
     <Child1 setSelectedOption= {setSelectedOption}/>
     <Child2  setSelectedOption = {setSelectedOption}/>
 
